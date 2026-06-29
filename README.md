@@ -1,5 +1,5 @@
 # Game_Verse
-To create  Gaming Website:-(description) Show static Reviews, Ratings, Upcoming Releases, and Trailers.
+
 ➤ Project Title-
 
 GameVerse – A Static Gaming Website for Reviews, Ratings, Upcoming Releases, and Trailers
